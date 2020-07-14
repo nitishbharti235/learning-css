@@ -1,0 +1,18 @@
+a {     background-property: yellow;  }
+
+
+
+
+a -> selector
+background-property -> property
+yellow -> value
+
+
+
+Positioning in CSS
+    * Static    ->      default
+    * Relative  ->      property like top, left;
+    * Absolute  ->      whatever pos we want inside of a relative element.
+    * Fixed     ->      always be on same pos.
+    * Initial   ->      sets to default value
+    * Inherit   ->      inherit from parent
